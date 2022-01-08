@@ -1,0 +1,23 @@
+body{
+    background-image:  url(https://st.depositphotos.com/1000123/1818/i/950/depositphotos_18186003-stock-photo-alone-island-in-the-ocean.jpg);
+}
+
+.show{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    
+}
+#container{
+    display: grid;
+    justify-content: space-around;
+    margin-top: 90px;
+}
+.btn2 {
+    margin-right: 20px;
+    width: 100px;
+    color: azure;
+    background-color: rgb(73, 176, 223);
+    border-radius: 20px;
+}
+
